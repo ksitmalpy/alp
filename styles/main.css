@@ -175,7 +175,7 @@ button,
     .form-subscribe {
       margin-left: auto; } }
 
-.twitter::before {
+.github::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f099"; }
 
